@@ -48,4 +48,4 @@ This project reflects my commitment to sustainable, tech-driven innovation.
 ## 📬 Contact
 
 - GitHub: [@c-ipynb](https://github.com/c-ipynb)  
-- Email: covenant.usanga@yahoo.com
+- Email: c.ovenant@tutanota.com
